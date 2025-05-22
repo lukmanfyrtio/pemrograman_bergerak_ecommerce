@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70410039938",
+    "project_id": "online-shop-by-lukman",
+    "storage_bucket": "online-shop-by-lukman.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70410039938:android:72c252f70fd7cd36b8ba9b",
+        "android_client_info": {
+          "package_name": "com.lukman.onlineshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oH8DdYhTwwnF6oRVkQWmSek0t7Y8kEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
